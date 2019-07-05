@@ -11,6 +11,9 @@ Use MD Share in offline devices.
   
 ## 更新情報
 
+### Ver.2019.07.05
+* MD Share 通常版 Ver.2019.07.05にほぼ準拠。
+
 ### Ver.2019.06.30
 * 初リリース。
-* MD Share 通常版Ver.2019.06.30にほぼ準拠。
+* MD Share 通常版 Ver.2019.06.30にほぼ準拠。
